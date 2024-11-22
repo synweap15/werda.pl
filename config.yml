@@ -1,0 +1,25 @@
+baseURL: "https://werda.pl"
+title: "Welcome, have a seat"
+theme: PaperMod
+
+minify:
+  minifyOutput: true
+
+params:
+  env: production
+  description: "Paweł Werda home page"
+
+  profileMode:
+    enabled: true
+    title: Paweł Werda
+    buttons:
+      - name: Dev stuff here
+        url: "https://dev.werda.pl"
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/synweap15"
+    - name: upwork
+      title: View my Upwork profile
+      url: https://www.upwork.com/freelancers/pwerda

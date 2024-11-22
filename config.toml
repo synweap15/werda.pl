@@ -1,7 +1,0 @@
-baseURL = 'https://werda.pl'
-languageCode = 'en-us'
-title = 'Make things happen'
-theme = 'paper'
-
-[params]
-  color = 'linen'
